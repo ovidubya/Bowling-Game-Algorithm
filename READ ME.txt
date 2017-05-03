@@ -1,2 +1,0 @@
-This is a unfinished simulator, a few bugs.
-the bonus score code still needs some work.
